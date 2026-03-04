@@ -39,8 +39,8 @@ class DataTransformation:
         including gender mapping, dummy variable creation, column renaming,
         feature scaling, and type adjustments.
         """
-
         logging.info("Entered get_data_transformer_object method of DataTransformation class")
+
         try:
             # Initialize transformers
             numeric_transformer = StandardScaler()
