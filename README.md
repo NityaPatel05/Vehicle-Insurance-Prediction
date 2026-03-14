@@ -93,7 +93,6 @@ Data Source (MongoDB Atlas)
           Browser / API Client
 ```
 
-![alt text](image-2.png)
 
 The CI/CD flow:
 
@@ -334,7 +333,7 @@ Open your browser at `http://localhost:5000`.
 
 ---
 
-## ⚙️ CI/CD Deployment
+##  CI/CD Deployment
 
 ### 1. Create an ECR Repository
 
